@@ -7,7 +7,7 @@ import java.nio.channels.Selector;
 import java.nio.channels.SocketChannel;
 
 /**
- * zengjianhong
+ * @author jehon
  */
 public class EchoHandler implements Runnable{
 

@@ -9,7 +9,7 @@ import java.util.Iterator;
 import java.util.Set;
 
 /**
- * zengjianhong
+ * @author jehon
  */
 public class EchoServerReactor implements Runnable {
 
